@@ -8,7 +8,7 @@ function App() {
     {
       id: 1,
       title: 'Some Dummy Movie',
-      openingText: 'This is the opening text of the movie',
+      openingText: 'This the opening text of the movie',
       releaseDate: '2021-05-18',
     },
     {
