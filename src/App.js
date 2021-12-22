@@ -17,9 +17,8 @@ function App() {
         openingText: movieData.opening_crawl,
         releaseDate: movieData.release_date
       };
-
-      setMovies(data.results);
     });
+    setMovies(data.results);
   }
 
   return (
